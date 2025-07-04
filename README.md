@@ -10,9 +10,9 @@ Criar uma ferramenta capaz de auxiliar em análises investigativas por meio de u
 
 ## 🚀 Tecnologias Utilizadas
 
-- **🔎 LangChain** – Orquestra a cadeia de recuperação e geração.
+- **🔎 LangChain** –  Framework de código aberto projetado para facilitar o desenvolvimento de aplicações
 - **📚 Transformers** – Para utilizar o modelo de linguagem Flan-T5.
-- **🧠 Modelo IA**: `google/flan-t5-base` (leve e ideal para CPU).
+- **🧠 Modelo IA**: `google/flan-t5-base` leve e ideal para CPU.
 - **🔤 Embeddings**: `sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2`.
 - **📁 Vetorstore**: Chroma (armazenamento e busca por similaridade).
 - **🌐 Interface**: Streamlit (web app simples e funcional).
