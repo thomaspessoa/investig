@@ -15,6 +15,7 @@ Criar uma ferramenta capaz de auxiliar em análises investigativas por meio de u
 - **🧠 Modelo IA**: `google/flan-t5-base` leve e ideal para CPU.
 - **🔤 Embeddings**: `sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2`.
 - **📁 Vetorstore**: Chroma (armazenamento e busca por similaridade).
+- Pipeline:Geração de texto.
 - **🌐 Interface**: Streamlit (web app simples e funcional).
 
 ---
