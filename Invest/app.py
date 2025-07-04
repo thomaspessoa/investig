@@ -88,7 +88,7 @@ def main():
     st.markdown(f"<style>{STYLES}</style>", unsafe_allow_html=True)
 
     st.markdown("<h1>🕵️ Investigador IA</h1>", unsafe_allow_html=True)
-    st.markdown("<p>Sua ferramenta de análise de documentos investigativos. Faça perguntas e obtenha insights rápidos.</p>", unsafe_allow_html=True)
+    st.markdown("<p>Sua ferramenta de análise de documentos investigativos..</p>", unsafe_allow_html=True)
     st.markdown("<hr>", unsafe_allow_html=True)
 
     pergunta = st.text_input("❓ Digite sua pergunta sobre o caso:", placeholder="Ex: Qual o depoimento da vítima?")
