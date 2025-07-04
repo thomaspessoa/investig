@@ -1,0 +1,10 @@
+Histórico Criminal:
+Nome: Rafael
+ID: 123.456.789-00
+Antecedentes: Nenhum registro criminal prévio.
+
+Nome: João P.
+ID: 987.654.321-00
+Antecedentes:
+- Furtos: 2 ocorrências em 2022 (liberado após cumprimento de pena).
+- Roubos: 1 ocorrência em abril de 2024, na região da Rua Aurora (aguardando julgamento).
